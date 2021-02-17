@@ -1,2 +1,2 @@
 #+ATTR_HTML: :align center
-[[https://cdn.discordapp.com/attachments/361916911682060289/731420093871030292/Image.png]]
+[[https://gist.githubusercontent.com/vizs/da222ddea215eb147a31bc45e2b35015/raw/e0d73b15254f42bb1796441c474c10d3afca1649/sus][https://cdn.discordapp.com/attachments/361916911682060289/731420093871030292/Image.png]]
